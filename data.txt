@@ -1,0 +1,5 @@
+id,name,sal,city
+10,eli,20000,ashdod
+20,avi,15000,haifa
+30,dani,25000,tel aviv
+40,yosi,23000,yafo
